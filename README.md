@@ -1,6 +1,7 @@
 📊 Databel Customer Churn & Financial Impact AnalysisAn interactive Power BI report designed to analyze telecom customer churn, evaluate key demographic and behavioral risk factors, and quantify the resulting revenue loss to guide data-driven retention strategies.
 
-📌 Dashboard OverviewPage 
+📌 Dashboard Overview Page
+
 1: Churn AnalysisPage
 
 <img width="656" height="369" alt="image" src="https://github.com/user-attachments/assets/5ab69f11-4be7-48b7-bffe-0a469fa62a17" />
